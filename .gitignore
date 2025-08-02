@@ -1,0 +1,13 @@
+out
+dist
+node_modules
+.vscode-test/
+*.vsix
+.env
+.env.local
+.DS_Store
+Thumbs.db
+*.log
+coverage/
+.nyc_output/
+.vscode-test-web/
