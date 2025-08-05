@@ -3,7 +3,7 @@
   "displayName": "Obsidian Dendron Importer",
   "description": "Import Obsidian vaults into Dendron workspace with automatic conversion from folder structure to dot-notation hierarchy",
   "icon": "obsidiantodendron.png",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "luisabellan",
   "author": "Luis Abellan <luis.abellan.dev@gmail.com> (https://luisabellan.com)",
   "repository": {
