@@ -24,11 +24,6 @@ A simple VS Code extension for Dendron that imports notes from Obsidian vaults w
    ```
 3. **Press Enter**
 
-**Alternative method:**
-1. Open VS Code Extensions (`Ctrl+Shift+X` / `Cmd+Shift+X`)
-2. Search for "Obsidian Dendron Importer"
-3. Click **Install** on the extension by LuisAbellan
-
 ### Installation From Open VSX Marketplace
 
 For VS Code alternatives like VSCodium, Gitpod, and others:
