@@ -55,7 +55,7 @@ The extension applies these optimized settings automatically:
 | **Preserve Metadata** | Keep YAML frontmatter from Obsidian | ✅ **Enabled** |
 | **Convert Wiki Links** | Transform `[[links]]` to Dendron format | ✅ **Enabled** |
 | **Handle Assets** | Copy images and attachments to assets folder | ✅ **Enabled** |
-| **Create Schema Files** | Generate `.schema.yml` files for hierarchies | ❌ **Disabled** |
+| **Create Schema Files** | Generate `.schema.yml` files for hierarchies | ✅ **Enabled** |
 
 ### Folder Structure Conversion
 

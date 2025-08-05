@@ -45,7 +45,7 @@ export class ImportCommand {
                         convertHierarchy: true,
                         preserveMetadata: true,
                         convertWikiLinks: true,
-                        createSchemaFiles: false,
+                        createSchemaFiles: true,
                         handleAssets: true
                     };
                     
